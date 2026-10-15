@@ -1,0 +1,17 @@
+{
+  "integrity": "PASS",
+  "pages": 10,
+  "unique_blocks": 195,
+  "labels": {
+    "abandon": 19,
+    "plain text": 88,
+    "title": 8,
+    "table_caption": 2,
+    "table": 2,
+    "figure": 6,
+    "figure_caption": 6,
+    "isolate_formula": 46,
+    "formula_caption": 18
+  },
+  "keywords": 704
+}

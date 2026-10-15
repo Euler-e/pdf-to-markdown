@@ -1,0 +1,422 @@
+[
+  {
+    "pdf_page": 21,
+    "block": "p0021-b004",
+    "latex": "\\mathbf{n}{\\stackrel{\\rightarrow}{\\longrightarrow}}\\,\\mathbf{p}+\\mathbf{e}+\\nu,",
+    "image": "assets/p0021-b004.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b006",
+    "latex": "x^{t}+y^{t}=R^{t}",
+    "image": "assets/p0040-b006.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：原图平方上标被识别为 t。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b010",
+    "latex": "r=x i+y j\\equiv R\\mathrm{cos}\\,\\omega t i+R\\mathrm{sin}\\,\\omega t j",
+    "image": "assets/p0040-b010.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "矢量粗体丢失，等号候选为 equiv，须核对。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b012",
+    "latex": "r=\\ \\sqrt{x^{2}+y^{2}}=R",
+    "image": "assets/p0040-b012.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "根号及平方结构与原图相符；仍未作为全局可信公式验收。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b014",
+    "latex": "\\tan\\theta={\\frac{y}{x}}={\\frac{\\sin\\omega t}{\\cos\\omega t}}=\\tan\\omega t",
+    "image": "assets/p0040-b014.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "分式与三角函数结构与原图相符；仍保留复核状态。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b017",
+    "latex": "\\theta=\\,\\omega t",
+    "image": "assets/p0040-b017.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b019",
+    "latex": "v\\,=\\,{\\frac{\\mathrm{d}r}{\\mathrm{d}t}}=-\\,R\\,\\omega\\sin\\omega t i+R\\,\\omega r i j",
+    "image": "assets/p0040-b019.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：速度表达式第二项漏识 cos 等内容。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b022",
+    "latex": "v_{x}=-\\,R\\omega\\sin\\omega t\\;,\\quad v_{*}\\,=\\,R\\omega\\cos\\omega t",
+    "image": "assets/p0040-b022.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：第二个分量下标 y 识别为 *。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b024",
+    "latex": "v=\\textstyle{\\sqrt{v_{x}^{2}+v_{x}^{2}}}=R\\omega",
+    "image": "assets/p0040-b024.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：根号内第二个下标 y 识别成 x。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b027",
+    "latex": "\\tan\\beta={\\frac{v_{x}}{v_{r}}}=-\\;{\\frac{\\cos\\omega t}{\\sin\\omega t}}=-\\;{\\cot\\omega t}",
+    "image": "assets/p0040-b027.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：分式上下标识别错误。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b029",
+    "latex": "\\beta=\\omega t+{\\frac{\\pi}{2}}=\\theta+{\\frac{\\pi}{2}}\\quad\\alpha",
+    "image": "assets/p0040-b029.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：末尾多识别 alpha。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b031",
+    "latex": "a={\\frac{\\mathrm{d}v}{\\mathrm{d}t}}=-\\,R\\omega^{2}\\cos\\omega\\bar{u}-R\\omega^{2}\\sin\\omega\\bar{t}\\,,",
+    "image": "assets/p0040-b031.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：矢量分量与 t 出现错识。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b033",
+    "latex": "a_{r}=-\\,R\\,\\omega^{2}\\cos\\,\\omega t\\;\\mathrm{,}\\quad a_{\\star}=-\\,R\\,\\omega^{2}\\sin\\omega t",
+    "image": "assets/p0040-b033.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：加速度分量下标识别错误。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b036",
+    "latex": "a\\,=\\,\\sqrt{a_{x}^{2}+a_{x}^{2}}=R\\omega^{2}",
+    "image": "assets/p0040-b036.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：根号内第二个下标 y 识别成 x。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 40,
+    "block": "p0040-b038",
+    "latex": "a=-\\,\\omega^{2}\\,(R\\mathrm{cos}\\;\\omega t i+R\\mathrm{sin}\\;\\omega t j\\,)\\,=-\\,\\omega^{2}\\,r",
+    "image": "assets/p0040-b038.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b006",
+    "latex": "F_{i}\\,=\\,\\Delta m\\omega^{2}\\,r_{s}\\,,",
+    "image": "assets/p0080-b006.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b009",
+    "latex": "F_{o^{\\prime}}={\\frac{G M_{\\mathrm{S}}\\Delta m}{r_{\\mathrm{S}}^{2}}}\\mathrm{e}\\bar{\\Gamma}_{\\mathrm{S}}^{2}\\mathrm{e}^{2}",
+    "image": "assets/p0080-b009.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b012",
+    "latex": "F_{i}\\,=\\,\\Delta m\\,\\omega^{2}r_{\\mathrm{s}}\\,=\\,\\frac{G M_{\\mathrm{s}}\\Delta m}{r_{\\mathrm{s}}^{2}}",
+    "image": "assets/p0080-b012.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b015",
+    "latex": "F_{1}={\\frac{G M_{\\mathrm{S}}\\Delta m}{F_{S}-R_{F}-R_{F}}}.",
+    "image": "assets/p0080-b015.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b017",
+    "latex": "F_{1}={\\frac{G M_{\\mathrm{S}}\\Delta m}{r_{\\mathrm{S}}^{2}}}\\Big(1+{\\frac{2R_{\\mathrm{E}}}{r_{\\mathrm{S}}^{2}}}\\Big)",
+    "image": "assets/p0080-b017.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b020",
+    "latex": "F_{1}^{\\prime}=F_{1}-F_{i}={\\frac{2G M_{\\mathrm{S}}\\Delta m}{r_{\\mathrm{S}}^{3}}}R_{\\mathrm{E}}^{\\prime}",
+    "image": "assets/p0080-b020.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b024",
+    "latex": "F_{z}={\\frac{G M_{\\mathrm{S}}\\Delta m}{(r_{\\mathrm{S}}+R_{\\mathrm{S}})^{\\mathrm{T}}(r_{\\mathrm{S}}(r_{\\mathrm{S}}+R_{\\mathrm{S}}+R_{\\mathrm{S}})}}",
+    "image": "assets/p0080-b024.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 80,
+    "block": "p0080-b026",
+    "latex": "F_{2}\\;=\\;\\frac{G M_{\\mathrm{S}}\\Delta m}{r_{\\mathrm{S}}^{\\frac{2}{3}}}\\Big(1-\\frac{2R_{\\mathrm{E}}}{r_{\\mathrm{S}}}\\Big)\\;",
+    "image": "assets/p0080-b026.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b001",
+    "latex": "{\\cal F}_{1}\\,=\\,{\\cal F}(r)\\,e_{r}\\,,\\quad{\\cal F}_{2}\\,=-\\,{\\cal F}(r)\\,e_{1}\\,",
+    "image": "assets/p0150-b001.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b004",
+    "latex": "m_{1}\\;\\frac{\\mathrm{d}^{2}r_{1}}{\\mathrm{d}t^{2}}=0\\,\\mathrm{sg:}",
+    "image": "assets/p0150-b004.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b007",
+    "latex": "m_{2}\\ \\frac{\\mathrm{d}^{s}r_{z}}{\\mathrm{d}t^{s}}=F_{s}F_{s}\\ ,",
+    "image": "assets/p0150-b007.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b010",
+    "latex": "m_{1}m_{2}\\;{\\frac{\\mathrm{d}^{2}\\,(r_{1}-r_{z})}{\\mathrm{d}t^{2}}}=\\;(m_{1}+m_{z})\\,F(r)\\,e,",
+    "image": "assets/p0150-b010.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b012",
+    "latex": "{\\frac{m_{1}m_{2}}{m_{1}+m_{2}}}\\,{\\frac{\\mathrm{d}^{2}r}{\\mathrm{d}t^{2}}}=F(r)\\,e,",
+    "image": "assets/p0150-b012.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b015",
+    "latex": "\\mu={\\frac{m_{1}m_{2}}{m_{1}+m_{2}}}\\,",
+    "image": "assets/p0150-b015.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b018",
+    "latex": "\\mu\\,\\frac{\\mathrm{d}^{2}r}{\\mathrm{d}t^{2}}=F(\\,r\\,)\\,e,",
+    "image": "assets/p0150-b018.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 150,
+    "block": "p0150-b028",
+    "latex": "\\mu={\\frac{m_{\\!p}M}{m_{\\!v}+M}}={\\frac{4}{5}}m_{\\!v}",
+    "image": "assets/p0150-b028.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 260,
+    "block": "p0260-b009",
+    "latex": "F=F_{1}+F_{2}",
+    "image": "assets/p0260-b009.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 260,
+    "block": "p0260-b011",
+    "latex": "F=F_{1}+F_{z}+\\cdots+F_{s}=\\sum_{s=t}^{s}F,",
+    "image": "assets/p0260-b011.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：求和上下限及各项下标识别错误。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 260,
+    "block": "p0260-b014",
+    "latex": "{\\cal F}=\\sum_{i=1}^{n}\\,\\frac{q q_{i}}{4\\pi\\varepsilon_{0}\\,r_{i}^{2}}e_{0\\,0}\\,,",
+    "image": "assets/p0260-b014.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：单位矢量下标识别错误。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 260,
+    "block": "p0260-b019",
+    "latex": "E={\\frac{F}{q}}\\,",
+    "image": "assets/p0260-b019.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b004",
+    "latex": "\\quad J={\\frac{n e^{-}\\tau}{m}}",
+    "image": "assets/p0350-b004.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：e 的平方识别错误，末尾电场 E 漏识。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b007",
+    "latex": "\\sigma={\\frac{n e^{2}{\\boldsymbol{\\Sigma}}_{e}}{m}}",
+    "image": "assets/p0350-b007.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：弛豫时间 tau 识别为其他符号。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b012",
+    "latex": "v=a t\\,=\\frac{e E}{m}t",
+    "image": "assets/p0350-b012.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b014",
+    "latex": "\\frac{1}{2}m v^{2}\\,=\\,\\frac{e^{2}E^{2}}{2m}t^{2}",
+    "image": "assets/p0350-b014.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b016",
+    "latex": "\\frac{\\overline{{{1}}}\\,m v^{2}}{2}=\\frac{e^{2}E^{2}}{2m}\\frac{\\overline{{{r}}}\\,m}{\\overline{{{r}}}}^{2}.",
+    "image": "assets/p0350-b016.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b018",
+    "latex": "{\\vec{t}}^{-}=2\\tau^{2}",
+    "image": "assets/p0350-b018.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：平均 t 平方识别为矢量等其他记号。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b020",
+    "latex": "{\\frac{1}{2}}m v^{2}={\\frac{e^{2}E^{2}}{m}}\\tau^{4}",
+    "image": "assets/p0350-b020.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：tau 的平方识别为四次方，平均符号丢失。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b022",
+    "latex": "\\rho=n\\,{\\frac{1}{\\tau}}\\,{\\frac{1}{2}}m v^{2}\\,=\\,{\\frac{n e^{2}\\tau}{m}}E^{2}",
+    "image": "assets/p0350-b022.png",
+    "status": "pending",
+    "manual_check": {}
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b024",
+    "latex": "p=e E^{4}",
+    "image": "assets/p0350-b024.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：原图 sigma E 平方被识别为 e E 四次方。",
+      "basis": "visually_checked_original_page"
+    }
+  },
+  {
+    "pdf_page": 350,
+    "block": "p0350-b028",
+    "latex": "P=\\rho l S=\\sigma E^{z}l S={\\frac{(\\sigma E)^{z}l S}{\\sigma}}={\\frac{(J S)^{z}l}{\\sigma S}}+{\\frac{(\\lambda V)^{z}}{\\sigma S}}+(1+|\\sigma\\cdot l S)^{z}-\\sigma\\cdot l S^{z}l",
+    "image": "assets/p0350-b028.png",
+    "status": "pending",
+    "manual_check": {
+      "finding": "明显错误：幂次错识且生成原图没有的额外项；不得引用。",
+      "basis": "visually_checked_original_page"
+    }
+  }
+]

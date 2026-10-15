@@ -1,0 +1,152 @@
+[
+  {
+    "pdf_page": 14,
+    "errors": [
+      {
+        "block": "p0014-b003",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 20,
+    "errors": [
+      {
+        "block": "p0020-b002",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 21,
+    "errors": [
+      {
+        "block": "p0021-b006",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0021-b009",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0021-b010",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 29,
+    "errors": [
+      {
+        "block": "p0029-b003",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0029-b007",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 30,
+    "errors": [
+      {
+        "block": "p0030-b001",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0030-b004",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0030-b009",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 40,
+    "errors": [
+      {
+        "block": "p0040-b009",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 80,
+    "errors": [
+      {
+        "block": "p0080-b003",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0080-b018",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 150,
+    "errors": [
+      {
+        "block": "p0150-b002",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0150-b006",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0150-b008",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0150-b011",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0150-b014",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0150-b019",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 260,
+    "errors": [
+      {
+        "block": "p0260-b006",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0260-b015",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  },
+  {
+    "pdf_page": 350,
+    "errors": [
+      {
+        "block": "p0350-b005",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0350-b008",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0350-b023",
+        "type": "low_ocr_confidence"
+      },
+      {
+        "block": "p0350-b025",
+        "type": "low_ocr_confidence"
+      }
+    ]
+  }
+]

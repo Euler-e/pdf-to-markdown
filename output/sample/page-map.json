@@ -1,0 +1,130 @@
+[
+  {
+    "pdf_page": 14,
+    "printed_page": "X",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "315",
+      "316",
+      "316"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 20,
+    "printed_page": "4",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "3",
+      "939",
+      "1",
+      "0",
+      "140",
+      "1",
+      "939",
+      "0",
+      "0",
+      "140",
+      "0",
+      "0",
+      "140",
+      "1",
+      "0",
+      "496",
+      "2",
+      "3",
+      "0",
+      "1",
+      "4",
+      "0",
+      "1",
+      "0",
+      "2"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 21,
+    "printed_page": "5",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "5",
+      "4"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 29,
+    "printed_page": null,
+    "printed_page_status": "not_visible_on_chapter_opener",
+    "printed_page_candidates": [
+      "1"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 30,
+    "printed_page": "14",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "1",
+      "4",
+      "1"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 40,
+    "printed_page": "24",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "24",
+      "1",
+      "1",
+      "2",
+      "1",
+      "2"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 80,
+    "printed_page": "64",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "64"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 150,
+    "printed_page": "134",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "4",
+      "37"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 260,
+    "printed_page": "244",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "244",
+      "7",
+      "7"
+    ],
+    "status": "complete"
+  },
+  {
+    "pdf_page": 350,
+    "printed_page": "334",
+    "printed_page_status": "visually_verified_header",
+    "printed_page_candidates": [
+      "334",
+      "11"
+    ],
+    "status": "complete"
+  }
+]

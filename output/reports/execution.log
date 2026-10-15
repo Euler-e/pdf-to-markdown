@@ -1,0 +1,61 @@
+[0;93m2026-10-15 17:44:43.415993170 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:44:45,768 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:44:45.786106016 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:44:45,793 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:44:46,151 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0014.png 6 regions
+DONE 14 6
+[INFO] 2026-10-15 17:44:57,428 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:44:57.443609636 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:44:57,448 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:44:57,785 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0020.png 7 regions
+DONE 20 7
+[INFO] 2026-10-15 17:45:13,778 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:45:13.800830468 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:45:13,806 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:45:14,141 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0021.png 12 regions
+DONE 21 12
+[INFO] 2026-10-15 17:45:33,991 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:45:34.005623866 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:45:34,011 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:45:34,330 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0029.png 8 regions
+DONE 29 8
+[INFO] 2026-10-15 17:45:48,514 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:45:48.530713036 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:45:48,538 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:45:48,883 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0030.png 10 regions
+DONE 30 10
+[INFO] 2026-10-15 17:46:11,849 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:46:11.866160776 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:46:11,871 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:46:12,264 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0040.png 41 regions
+DONE 40 41
+[INFO] 2026-10-15 17:46:49,901 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:46:49.917871070 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:46:49,923 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:46:50,249 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0080.png 28 regions
+DONE 80 28
+[INFO] 2026-10-15 17:47:24,510 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:47:24.525776253 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:47:24,530 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:47:24,876 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0150.png 30 regions
+DONE 150 30
+[INFO] 2026-10-15 17:47:58,382 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:47:58.398334271 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:47:58,403 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:47:58,725 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0260.png 23 regions
+DONE 260 23
+[INFO] 2026-10-15 17:48:28,205 [rapid_layout.inference_engine.base] base.py:68: Using engine_name: onnxruntime
+[0;93m2026-10-15 17:48:28.219785154 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+[INFO] 2026-10-15 17:48:28,224 [rapid_layout.inference_engine.onnxruntime.main] main.py:30: Using /workspace/pdf-env/layout-models/doclayout_yolo_docstructbench_imgsz1024.onnx
+[INFO] 2026-10-15 17:48:28,548 [rapid_layout.model_handler.main] main.py:24: doclayout_docstructbench contains ['title', 'plain text', 'abandon', 'figure', 'figure_caption', 'table', 'table_caption', 'table_footnote', 'isolate_formula', 'formula_caption']
+LAYOUT output/sample/assets/p0350.png 30 regions
+DONE 350 30
