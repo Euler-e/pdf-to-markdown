@@ -1,0 +1,1242 @@
+[
+  {
+    "level": 1,
+    "title": "封面",
+    "pdf_page": 1
+  },
+  {
+    "level": 1,
+    "title": "书名",
+    "pdf_page": 3
+  },
+  {
+    "level": 1,
+    "title": "版权",
+    "pdf_page": 4
+  },
+  {
+    "level": 1,
+    "title": "前言",
+    "pdf_page": 5
+  },
+  {
+    "level": 1,
+    "title": "目录",
+    "pdf_page": 9
+  },
+  {
+    "level": 1,
+    "title": "今日物理趣闻A 基本粒子",
+    "pdf_page": 17
+  },
+  {
+    "level": 2,
+    "title": "A.1 粒子的发现与特征",
+    "pdf_page": 17
+  },
+  {
+    "level": 2,
+    "title": "A.2 粒子分类",
+    "pdf_page": 18
+  },
+  {
+    "level": 2,
+    "title": "A.3 粒子的转化与守恒定律",
+    "pdf_page": 20
+  },
+  {
+    "level": 2,
+    "title": "A.4 夸克",
+    "pdf_page": 21
+  },
+  {
+    "level": 2,
+    "title": "A.5 色",
+    "pdf_page": 22
+  },
+  {
+    "level": 2,
+    "title": "A.6 粒子研究与技术",
+    "pdf_page": 24
+  },
+  {
+    "level": 1,
+    "title": "第1 篇 力学",
+    "pdf_page": 29
+  },
+  {
+    "level": 1,
+    "title": "第1章 质点运动学",
+    "pdf_page": 29
+  },
+  {
+    "level": 2,
+    "title": "1.1 参考系",
+    "pdf_page": 29
+  },
+  {
+    "level": 2,
+    "title": "1.2 质点的位矢、位移和速度",
+    "pdf_page": 33
+  },
+  {
+    "level": 2,
+    "title": "1.3 加速度",
+    "pdf_page": 37
+  },
+  {
+    "level": 2,
+    "title": "1.4 匀加速运动",
+    "pdf_page": 41
+  },
+  {
+    "level": 2,
+    "title": "1.5 抛体运动",
+    "pdf_page": 43
+  },
+  {
+    "level": 2,
+    "title": "1.6 圆周运动",
+    "pdf_page": 46
+  },
+  {
+    "level": 2,
+    "title": "1.7 相对运动",
+    "pdf_page": 50
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 52
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 53
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 54
+  },
+  {
+    "level": 2,
+    "title": "科学家介绍 伽利略",
+    "pdf_page": 57
+  },
+  {
+    "level": 1,
+    "title": "第2章 运动与力",
+    "pdf_page": 59
+  },
+  {
+    "level": 2,
+    "title": "2.1 牛顿运动定律",
+    "pdf_page": 59
+  },
+  {
+    "level": 2,
+    "title": "2.2 常见的几种力",
+    "pdf_page": 63
+  },
+  {
+    "level": 2,
+    "title": "2.3 基本的自然力",
+    "pdf_page": 66
+  },
+  {
+    "level": 2,
+    "title": "2.4 应用牛顿定律解题",
+    "pdf_page": 68
+  },
+  {
+    "level": 2,
+    "title": "2.5 非惯性系与惯性力",
+    "pdf_page": 73
+  },
+  {
+    "level": 2,
+    "title": "2.6 科里奥利力",
+    "pdf_page": 76
+  },
+  {
+    "level": 2,
+    "title": "2.7 潮汐",
+    "pdf_page": 79
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 83
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 84
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 86
+  },
+  {
+    "level": 2,
+    "title": "科学家介绍 牛顿",
+    "pdf_page": 92
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻B 混沌——决定论的混乱",
+    "pdf_page": 94
+  },
+  {
+    "level": 3,
+    "title": "B.1 决定论的可预测性",
+    "pdf_page": 94
+  },
+  {
+    "level": 3,
+    "title": "B.2 决定论的不可预测性",
+    "pdf_page": 94
+  },
+  {
+    "level": 3,
+    "title": "B.3 对初值的敏感性",
+    "pdf_page": 96
+  },
+  {
+    "level": 3,
+    "title": "B.4 几个混沌现象实例",
+    "pdf_page": 97
+  },
+  {
+    "level": 1,
+    "title": "第3章 动量与角动量",
+    "pdf_page": 100
+  },
+  {
+    "level": 2,
+    "title": "3.1 冲量与动量定理",
+    "pdf_page": 100
+  },
+  {
+    "level": 2,
+    "title": "3.2 动量守恒定律",
+    "pdf_page": 103
+  },
+  {
+    "level": 2,
+    "title": "3.3 火箭飞行原理",
+    "pdf_page": 106
+  },
+  {
+    "level": 2,
+    "title": "3.4 质心",
+    "pdf_page": 107
+  },
+  {
+    "level": 2,
+    "title": "3.5 质心运动定理",
+    "pdf_page": 109
+  },
+  {
+    "level": 2,
+    "title": "3.6 质点的角动量和角动量定理",
+    "pdf_page": 113
+  },
+  {
+    "level": 2,
+    "title": "3.7 角动量守恒定律",
+    "pdf_page": 115
+  },
+  {
+    "level": 2,
+    "title": "3.8 质点系的角动量定理",
+    "pdf_page": 117
+  },
+  {
+    "level": 2,
+    "title": "3.9 质心参考系中的角动量",
+    "pdf_page": 119
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 120
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 121
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 122
+  },
+  {
+    "level": 2,
+    "title": "科学家介绍 开普勒",
+    "pdf_page": 125
+  },
+  {
+    "level": 1,
+    "title": "第4章 功和能",
+    "pdf_page": 126
+  },
+  {
+    "level": 2,
+    "title": "4.1 功",
+    "pdf_page": 126
+  },
+  {
+    "level": 2,
+    "title": "4.2 动能定理",
+    "pdf_page": 129
+  },
+  {
+    "level": 2,
+    "title": "4.3 势能",
+    "pdf_page": 132
+  },
+  {
+    "level": 2,
+    "title": "4.4 引力势能",
+    "pdf_page": 134
+  },
+  {
+    "level": 2,
+    "title": "4.5 由势能求保守力",
+    "pdf_page": 136
+  },
+  {
+    "level": 2,
+    "title": "4.6 机械能守恒定律",
+    "pdf_page": 137
+  },
+  {
+    "level": 2,
+    "title": "4.7 守恒定律的意义",
+    "pdf_page": 143
+  },
+  {
+    "level": 2,
+    "title": "4.8 碰撞",
+    "pdf_page": 144
+  },
+  {
+    "level": 2,
+    "title": "4.9 两体问题",
+    "pdf_page": 149
+  },
+  {
+    "level": 2,
+    "title": "4.10 流体的稳定流动",
+    "pdf_page": 151
+  },
+  {
+    "level": 2,
+    "title": "4.11 伯努利方程",
+    "pdf_page": 152
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 156
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 157
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 159
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻C 奇妙的对称性",
+    "pdf_page": 163
+  },
+  {
+    "level": 3,
+    "title": "C.1 对称美",
+    "pdf_page": 163
+  },
+  {
+    "level": 3,
+    "title": "C.2 对称性种种",
+    "pdf_page": 165
+  },
+  {
+    "level": 3,
+    "title": "C.3 物理定律的对称性",
+    "pdf_page": 166
+  },
+  {
+    "level": 3,
+    "title": "C.4 宇称守恒与不守恒",
+    "pdf_page": 166
+  },
+  {
+    "level": 3,
+    "title": "C.5 自然界的不对称现象",
+    "pdf_page": 168
+  },
+  {
+    "level": 3,
+    "title": "C.6 关于时间的对称性",
+    "pdf_page": 169
+  },
+  {
+    "level": 1,
+    "title": "第5章 刚体的转动",
+    "pdf_page": 171
+  },
+  {
+    "level": 2,
+    "title": "5.1 刚体转动的描述",
+    "pdf_page": 171
+  },
+  {
+    "level": 2,
+    "title": "5.2 转动定律",
+    "pdf_page": 173
+  },
+  {
+    "level": 2,
+    "title": "5.3 转动惯量的计算",
+    "pdf_page": 175
+  },
+  {
+    "level": 2,
+    "title": "5.4 转动定律的应用",
+    "pdf_page": 178
+  },
+  {
+    "level": 2,
+    "title": "5.5 角动量守恒",
+    "pdf_page": 181
+  },
+  {
+    "level": 2,
+    "title": "5.6 转动中的功和能",
+    "pdf_page": 184
+  },
+  {
+    "level": 2,
+    "title": "5.7 进动",
+    "pdf_page": 188
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 190
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 191
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 193
+  },
+  {
+    "level": 1,
+    "title": "第6章 狭义相对论基础",
+    "pdf_page": 197
+  },
+  {
+    "level": 2,
+    "title": "6.1 牛顿相对性原理和伽利略变换",
+    "pdf_page": 197
+  },
+  {
+    "level": 2,
+    "title": "6.2 爱因斯坦相对性原理和光速不变",
+    "pdf_page": 200
+  },
+  {
+    "level": 2,
+    "title": "6.3 同时性的相对性和时间延缓",
+    "pdf_page": 201
+  },
+  {
+    "level": 2,
+    "title": "6.4 长度收缩",
+    "pdf_page": 205
+  },
+  {
+    "level": 2,
+    "title": "6.5 洛伦兹坐标变换",
+    "pdf_page": 207
+  },
+  {
+    "level": 2,
+    "title": "6.6 相对论速度变换",
+    "pdf_page": 211
+  },
+  {
+    "level": 2,
+    "title": "6.7 相对论质量",
+    "pdf_page": 213
+  },
+  {
+    "level": 2,
+    "title": "6.8 力和加速度的关系",
+    "pdf_page": 216
+  },
+  {
+    "level": 2,
+    "title": "6.9 相对论动能",
+    "pdf_page": 217
+  },
+  {
+    "level": 2,
+    "title": "6.10 相对论能量",
+    "pdf_page": 218
+  },
+  {
+    "level": 2,
+    "title": "6.11 动量和能量的关系",
+    "pdf_page": 221
+  },
+  {
+    "level": 2,
+    "title": "6.12 相对论力的变换",
+    "pdf_page": 224
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 225
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 226
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 227
+  },
+  {
+    "level": 2,
+    "title": "科学家介绍 爱因斯坦",
+    "pdf_page": 230
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻D 弯曲的时空——广义相对论简介",
+    "pdf_page": 232
+  },
+  {
+    "level": 3,
+    "title": "D.1 等效原理",
+    "pdf_page": 232
+  },
+  {
+    "level": 3,
+    "title": "D.2 光线的偏折和空间弯曲",
+    "pdf_page": 234
+  },
+  {
+    "level": 3,
+    "title": "D.3 广义相对论",
+    "pdf_page": 235
+  },
+  {
+    "level": 3,
+    "title": "D.4 引力时间延缓",
+    "pdf_page": 237
+  },
+  {
+    "level": 3,
+    "title": "D.5 引力波",
+    "pdf_page": 238
+  },
+  {
+    "level": 3,
+    "title": "D.6 黑洞",
+    "pdf_page": 240
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻E 大爆炸和宇宙膨胀",
+    "pdf_page": 242
+  },
+  {
+    "level": 3,
+    "title": "E.1 现时的宇宙",
+    "pdf_page": 242
+  },
+  {
+    "level": 3,
+    "title": "E.2 宇宙膨胀和大爆炸",
+    "pdf_page": 243
+  },
+  {
+    "level": 3,
+    "title": "E.3 从大爆炸到今天",
+    "pdf_page": 245
+  },
+  {
+    "level": 3,
+    "title": "E.4 宇宙的未来",
+    "pdf_page": 248
+  },
+  {
+    "level": 3,
+    "title": "E.5 至大和至小的理论结合起来了",
+    "pdf_page": 251
+  },
+  {
+    "level": 1,
+    "title": "第2 篇 电磁学",
+    "pdf_page": 255
+  },
+  {
+    "level": 1,
+    "title": "第7章 静电场",
+    "pdf_page": 255
+  },
+  {
+    "level": 2,
+    "title": "7.1 电荷",
+    "pdf_page": 255
+  },
+  {
+    "level": 2,
+    "title": "7.2 库仑定律与叠加原理",
+    "pdf_page": 258
+  },
+  {
+    "level": 2,
+    "title": "7.3 电场和电场强度",
+    "pdf_page": 260
+  },
+  {
+    "level": 2,
+    "title": "7.4 静止的点电荷的电场及其叠加",
+    "pdf_page": 262
+  },
+  {
+    "level": 2,
+    "title": "7.5 电场线和电通量",
+    "pdf_page": 267
+  },
+  {
+    "level": 2,
+    "title": "7.6 高斯定律",
+    "pdf_page": 269
+  },
+  {
+    "level": 2,
+    "title": "7.7 利用高斯定律求静电场的分布",
+    "pdf_page": 270
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 274
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 275
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 276
+  },
+  {
+    "level": 1,
+    "title": "第8章 电势",
+    "pdf_page": 280
+  },
+  {
+    "level": 2,
+    "title": "8.1 静电场的保守性",
+    "pdf_page": 280
+  },
+  {
+    "level": 2,
+    "title": "8.2 电势差和电势",
+    "pdf_page": 282
+  },
+  {
+    "level": 2,
+    "title": "8.3 电势叠加原理",
+    "pdf_page": 284
+  },
+  {
+    "level": 2,
+    "title": "8.4 电势梯度",
+    "pdf_page": 287
+  },
+  {
+    "level": 2,
+    "title": "8.5 电荷在外电场中的静电势能",
+    "pdf_page": 289
+  },
+  {
+    "level": 2,
+    "title": "8.6 电荷系的静电能",
+    "pdf_page": 290
+  },
+  {
+    "level": 2,
+    "title": "8.7 静电场的能量",
+    "pdf_page": 292
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 294
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 295
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 295
+  },
+  {
+    "level": 1,
+    "title": "第9章 静电场中的导体",
+    "pdf_page": 299
+  },
+  {
+    "level": 2,
+    "title": "9.1 导体的静电平衡条件",
+    "pdf_page": 299
+  },
+  {
+    "level": 2,
+    "title": "9.2 静电平衡的导体上的电荷分布",
+    "pdf_page": 300
+  },
+  {
+    "level": 2,
+    "title": "9.3 有导体存在时静电场的分析与计算",
+    "pdf_page": 301
+  },
+  {
+    "level": 2,
+    "title": "9.4 静电屏蔽",
+    "pdf_page": 303
+  },
+  {
+    "level": 2,
+    "title": "9.5 唯一性定理",
+    "pdf_page": 304
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 307
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 307
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 308
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻F 大气电学",
+    "pdf_page": 310
+  },
+  {
+    "level": 3,
+    "title": "F.1 晴天大气电场",
+    "pdf_page": 310
+  },
+  {
+    "level": 3,
+    "title": "F.2 雷暴的电荷和电场",
+    "pdf_page": 312
+  },
+  {
+    "level": 3,
+    "title": "F.3 闪电",
+    "pdf_page": 315
+  },
+  {
+    "level": 1,
+    "title": "第10章 静电场中的电介质",
+    "pdf_page": 318
+  },
+  {
+    "level": 2,
+    "title": "10.1 电介质对电场的影响",
+    "pdf_page": 318
+  },
+  {
+    "level": 2,
+    "title": "10.2 电介质的极化",
+    "pdf_page": 319
+  },
+  {
+    "level": 2,
+    "title": "10.3 D的高斯定律",
+    "pdf_page": 322
+  },
+  {
+    "level": 2,
+    "title": "10.4 电容器和它的电容",
+    "pdf_page": 326
+  },
+  {
+    "level": 2,
+    "title": "10.5 电容器的能量",
+    "pdf_page": 329
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 331
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 332
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 332
+  },
+  {
+    "level": 1,
+    "title": "第11章 恒定电流",
+    "pdf_page": 337
+  },
+  {
+    "level": 2,
+    "title": "11.1 电流和电流密度",
+    "pdf_page": 337
+  },
+  {
+    "level": 2,
+    "title": "11.2 恒定电流与恒定电场",
+    "pdf_page": 339
+  },
+  {
+    "level": 2,
+    "title": "11.3 欧姆定律和电阻",
+    "pdf_page": 340
+  },
+  {
+    "level": 2,
+    "title": "11.4 电动势",
+    "pdf_page": 343
+  },
+  {
+    "level": 2,
+    "title": "11.5 有电动势的电路",
+    "pdf_page": 344
+  },
+  {
+    "level": 2,
+    "title": "11.6 电容器的充电与放电",
+    "pdf_page": 347
+  },
+  {
+    "level": 2,
+    "title": "11.7 电流的一种经典微观图像",
+    "pdf_page": 348
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 351
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 352
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 352
+  },
+  {
+    "level": 1,
+    "title": "第12章 磁场和它的源",
+    "pdf_page": 355
+  },
+  {
+    "level": 2,
+    "title": "12.1 磁力与电荷的运动",
+    "pdf_page": 355
+  },
+  {
+    "level": 2,
+    "title": "12.2 磁场与磁感应强度",
+    "pdf_page": 356
+  },
+  {
+    "level": 2,
+    "title": "12.3 毕奥-萨伐尔定律",
+    "pdf_page": 359
+  },
+  {
+    "level": 2,
+    "title": "12.4 匀速运动点电荷的磁场",
+    "pdf_page": 364
+  },
+  {
+    "level": 2,
+    "title": "12.5 安培环路定理",
+    "pdf_page": 365
+  },
+  {
+    "level": 2,
+    "title": "12.6 利用安培环路定理求磁场的分布",
+    "pdf_page": 368
+  },
+  {
+    "level": 2,
+    "title": "12.7 与变化电场相联系的磁场",
+    "pdf_page": 370
+  },
+  {
+    "level": 2,
+    "title": "12.8 电场和磁场的相对性和统一性",
+    "pdf_page": 373
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 374
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 375
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 376
+  },
+  {
+    "level": 2,
+    "title": "科学家介绍 麦克斯韦",
+    "pdf_page": 379
+  },
+  {
+    "level": 1,
+    "title": "第13章 磁力",
+    "pdf_page": 382
+  },
+  {
+    "level": 2,
+    "title": "13.1 带电粒子在磁场中的运动",
+    "pdf_page": 382
+  },
+  {
+    "level": 2,
+    "title": "13.2 霍尔效应",
+    "pdf_page": 384
+  },
+  {
+    "level": 2,
+    "title": "13.3 载流导线在磁场中受的磁力",
+    "pdf_page": 386
+  },
+  {
+    "level": 2,
+    "title": "13.4 载流线圈在均匀磁场中受的磁力矩",
+    "pdf_page": 387
+  },
+  {
+    "level": 2,
+    "title": "13.5 平行载流导线间的相互作用力",
+    "pdf_page": 390
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 392
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 393
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 394
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻G 等离子体",
+    "pdf_page": 399
+  },
+  {
+    "level": 3,
+    "title": "G.1 物质的第四态",
+    "pdf_page": 399
+  },
+  {
+    "level": 3,
+    "title": "G.2 等离子体内的磁场",
+    "pdf_page": 401
+  },
+  {
+    "level": 3,
+    "title": "G.3 磁场对等离子体的作用",
+    "pdf_page": 402
+  },
+  {
+    "level": 3,
+    "title": "G.4 热核反应",
+    "pdf_page": 403
+  },
+  {
+    "level": 3,
+    "title": "G.5 等离子体的约束",
+    "pdf_page": 404
+  },
+  {
+    "level": 3,
+    "title": "G.6 冷聚变",
+    "pdf_page": 407
+  },
+  {
+    "level": 1,
+    "title": "第14章 磁场中的磁介质",
+    "pdf_page": 408
+  },
+  {
+    "level": 2,
+    "title": "14.1 磁介质对磁场的影响",
+    "pdf_page": 408
+  },
+  {
+    "level": 2,
+    "title": "14.2 原子的磁矩",
+    "pdf_page": 409
+  },
+  {
+    "level": 2,
+    "title": "14.3 磁介质的磁化",
+    "pdf_page": 412
+  },
+  {
+    "level": 2,
+    "title": "14.4 H的环路定理",
+    "pdf_page": 414
+  },
+  {
+    "level": 2,
+    "title": "14.5 铁磁质",
+    "pdf_page": 416
+  },
+  {
+    "level": 2,
+    "title": "14.6 简单磁路",
+    "pdf_page": 420
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 421
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 422
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 423
+  },
+  {
+    "level": 1,
+    "title": "第15章 电磁感应",
+    "pdf_page": 426
+  },
+  {
+    "level": 2,
+    "title": "15.1 法拉第电磁感应定律",
+    "pdf_page": 426
+  },
+  {
+    "level": 2,
+    "title": "15.2 动生电动势",
+    "pdf_page": 428
+  },
+  {
+    "level": 2,
+    "title": "15.3 感生电动势和感生电场",
+    "pdf_page": 431
+  },
+  {
+    "level": 2,
+    "title": "15.4 互感",
+    "pdf_page": 433
+  },
+  {
+    "level": 2,
+    "title": "15.5 自感",
+    "pdf_page": 435
+  },
+  {
+    "level": 2,
+    "title": "15.6 磁场的能量",
+    "pdf_page": 437
+  },
+  {
+    "level": 2,
+    "title": "提要",
+    "pdf_page": 439
+  },
+  {
+    "level": 2,
+    "title": "思考题",
+    "pdf_page": 440
+  },
+  {
+    "level": 2,
+    "title": "习题",
+    "pdf_page": 441
+  },
+  {
+    "level": 2,
+    "title": "科学家介绍 法拉第",
+    "pdf_page": 444
+  },
+  {
+    "level": 2,
+    "title": "今日物理趣闻H 超导电性",
+    "pdf_page": 447
+  },
+  {
+    "level": 3,
+    "title": "H.1 超导现象",
+    "pdf_page": 447
+  },
+  {
+    "level": 3,
+    "title": "H.2 临界磁场",
+    "pdf_page": 448
+  },
+  {
+    "level": 3,
+    "title": "H.3 超导体中的电场和磁场",
+    "pdf_page": 449
+  },
+  {
+    "level": 3,
+    "title": "H.4 第二类超导体",
+    "pdf_page": 450
+  },
+  {
+    "level": 3,
+    "title": "H.5 BCS理论",
+    "pdf_page": 451
+  },
+  {
+    "level": 3,
+    "title": "H.6 约瑟夫森效应",
+    "pdf_page": 452
+  },
+  {
+    "level": 3,
+    "title": "H.7 超导在技术中的应用",
+    "pdf_page": 454
+  },
+  {
+    "level": 3,
+    "title": "H.8 高温超导",
+    "pdf_page": 455
+  },
+  {
+    "level": 1,
+    "title": "第16章 麦克斯韦方程组和电磁辐射",
+    "pdf_page": 457
+  },
+  {
+    "level": 2,
+    "title": "16.1 麦克斯韦方程组",
+    "pdf_page": 457
+  },
+  {
+    "level": 2,
+    "title": "16.2 加速电荷的电场",
+    "pdf_page": 460
+  },
+  {
+    "level": 2,
+    "title": "16.3 加速电荷的磁场",
+    "pdf_page": 462
+  },
+  {
+    "level": 2,
+    "title": "16.4 电磁波的能量",
+    "pdf_page": 464
+  },
+  {
+    "level": 2,
+    "title": "16.5 同步辐射",
+    "pdf_page": 467
+  },
+  {
+    "level": 2,
+    "title": "16.6 电磁波的动量",
+    "pdf_page": 469
+  },
+  {
+    "level": 2,
+    "title": "16.7 A-B效应",
+    "pdf_page": 470
+  },
+  {
+    "level": 1,
+    "title": "提要",
+    "pdf_page": 472
+  },
+  {
+    "level": 1,
+    "title": "思考题",
+    "pdf_page": 472
+  },
+  {
+    "level": 1,
+    "title": "习题",
+    "pdf_page": 473
+  },
+  {
+    "level": 1,
+    "title": "数值表",
+    "pdf_page": 476
+  },
+  {
+    "level": 1,
+    "title": "习题答案",
+    "pdf_page": 478
+  },
+  {
+    "level": 1,
+    "title": "索引",
+    "pdf_page": 492
+  }
+]

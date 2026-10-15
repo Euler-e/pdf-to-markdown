@@ -1,0 +1,154 @@
+{
+  "p0080-b007": {
+    "verified_number": "2.32",
+    "basis": "visually_checked_original_page"
+  },
+  "p0080-b010": {
+    "verified_number": "2.33",
+    "basis": "visually_checked_original_page"
+  },
+  "p0080-b013": {
+    "verified_number": "2.34",
+    "basis": "visually_checked_original_page"
+  },
+  "p0080-b018": {
+    "verified_number": "2.35",
+    "basis": "visually_checked_original_page"
+  },
+  "p0080-b021": {
+    "verified_number": "2.36",
+    "basis": "visually_checked_original_page"
+  },
+  "p0080-b027": {
+    "verified_number": "2.37",
+    "basis": "visually_checked_original_page"
+  },
+  "p0150-b002": {
+    "verified_number": "4.37",
+    "basis": "visually_checked_original_page"
+  },
+  "p0150-b005": {
+    "verified_number": "4.38",
+    "basis": "visually_checked_original_page"
+  },
+  "p0150-b008": {
+    "verified_number": "4.39",
+    "basis": "visually_checked_original_page"
+  },
+  "p0150-b013": {
+    "verified_number": "4.40",
+    "basis": "visually_checked_original_page"
+  },
+  "p0150-b016": {
+    "verified_number": "4.41",
+    "basis": "visually_checked_original_page"
+  },
+  "p0150-b019": {
+    "verified_number": "4.42",
+    "basis": "visually_checked_original_page"
+  },
+  "p0260-b012": {
+    "verified_number": "7.4",
+    "basis": "visually_checked_original_page"
+  },
+  "p0260-b015": {
+    "verified_number": "7.5",
+    "basis": "visually_checked_original_page"
+  },
+  "p0260-b020": {
+    "verified_number": "7.6",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b005": {
+    "verified_number": "11.33",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b008": {
+    "verified_number": "11.34",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b025": {
+    "verified_number": "11.35",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b006": {
+    "finding": "明显错误：原图平方上标被识别为 t。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b010": {
+    "finding": "矢量粗体丢失，等号候选为 equiv，须核对。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b012": {
+    "finding": "根号及平方结构与原图相符；仍未作为全局可信公式验收。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b014": {
+    "finding": "分式与三角函数结构与原图相符；仍保留复核状态。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b019": {
+    "finding": "明显错误：速度表达式第二项漏识 cos 等内容。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b022": {
+    "finding": "明显错误：第二个分量下标 y 识别为 *。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b024": {
+    "finding": "明显错误：根号内第二个下标 y 识别成 x。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b027": {
+    "finding": "明显错误：分式上下标识别错误。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b029": {
+    "finding": "明显错误：末尾多识别 alpha。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b031": {
+    "finding": "明显错误：矢量分量与 t 出现错识。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b033": {
+    "finding": "明显错误：加速度分量下标识别错误。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0040-b036": {
+    "finding": "明显错误：根号内第二个下标 y 识别成 x。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0260-b011": {
+    "finding": "明显错误：求和上下限及各项下标识别错误。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0260-b014": {
+    "finding": "明显错误：单位矢量下标识别错误。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b004": {
+    "finding": "明显错误：e 的平方识别错误，末尾电场 E 漏识。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b007": {
+    "finding": "明显错误：弛豫时间 tau 识别为其他符号。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b018": {
+    "finding": "明显错误：平均 t 平方识别为矢量等其他记号。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b020": {
+    "finding": "明显错误：tau 的平方识别为四次方，平均符号丢失。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b024": {
+    "finding": "明显错误：原图 sigma E 平方被识别为 e E 四次方。",
+    "basis": "visually_checked_original_page"
+  },
+  "p0350-b028": {
+    "finding": "明显错误：幂次错识且生成原图没有的额外项；不得引用。",
+    "basis": "visually_checked_original_page"
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "14":{"printed_page":"X","printed_page_status":"visually_verified_header"},
+ "20":{"printed_page":"4","printed_page_status":"visually_verified_header"},
+ "21":{"printed_page":"5","printed_page_status":"visually_verified_header"},
+ "29":{"printed_page":null,"printed_page_status":"not_visible_on_chapter_opener"},
+ "30":{"printed_page":"14","printed_page_status":"visually_verified_header"},
+ "40":{"printed_page":"24","printed_page_status":"visually_verified_header"},
+ "80":{"printed_page":"64","printed_page_status":"visually_verified_header"},
+ "150":{"printed_page":"134","printed_page_status":"visually_verified_header"},
+ "260":{"printed_page":"244","printed_page_status":"visually_verified_header"},
+ "350":{"printed_page":"334","printed_page_status":"visually_verified_header"}
+}
